@@ -1,1 +1,1 @@
-# charli3-substrate-docs
+# Charli3 Substrate AppChain Design
